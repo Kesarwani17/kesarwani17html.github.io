@@ -10,12 +10,16 @@ hr {
   width: 5%;
 }
 
+img:hover {
+  background-color: #84a9ac;
+}
+
 h3 {
   color: #3b6978;
 }
 
 a {
-  color: #3b6978;
+  color: #84a9ac;
 }
 
 table {
@@ -25,4 +29,3 @@ table {
 h1 {
   color: #204051;
 }
-
