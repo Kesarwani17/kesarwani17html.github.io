@@ -1,5 +1,6 @@
 body {
   background-color: #e4e3e3
+  font-family: Helvetica;
 }
 
 hr {
@@ -16,10 +17,12 @@ img:hover {
 
 h3 {
   color: #3b6978;
+  font-family: Helvetica;
 }
 
 a {
   color: #84a9ac;
+  font-family: Helvetica;
 }
 
 table {
@@ -28,4 +31,8 @@ table {
 
 h1 {
   color: #204051;
+  font-family: Helvetica;
+}
+p{
+  font-family: Helvetica;
 }
